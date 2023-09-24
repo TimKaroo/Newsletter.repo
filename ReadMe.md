@@ -1,1 +1,3 @@
-Project to distribute newsletters off a list held in Google Sheets
+# Project to distribute newsletters 
+
+off a list held in Google Sheets
